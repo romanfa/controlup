@@ -26,7 +26,7 @@ public class TestConvertOnesToGrams {
 	}
 	@Parameterized.Parameters
 	public static Collection input() {
-		return Arrays.asList(new Object[][] {{"10","283"},{"10","566"}});
+		return Arrays.asList(new Object[][] {{"10","283"},{"20","566"}});
 	}
 	
 	@BeforeClass
