@@ -26,7 +26,7 @@ public class TestConvertMetersToFeet {
 	}
 	@Parameterized.Parameters
 	public static Collection input() {
-		return Arrays.asList(new Object[][] {{"20","68"},{"10","50"}});
+		return Arrays.asList(new Object[][] {{"20","65"},{"10","32"}});
 		
 	}
 	
